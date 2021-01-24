@@ -1,4 +1,4 @@
-# Project hosted at: https://determined-sammet-64127a.netlify.app
+## Project hosted at: https://determined-sammet-64127a.netlify.app
 
 # Getting Started with Create React App
 
@@ -8,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `git clone 'https://github.com/facebook/create-react-app'`
+### `git clone 'https://github.com/AvishekGhost/Book-Repo.git'`
 
 Clones the repo from github
 
